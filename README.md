@@ -1,3 +1,5 @@
+**Please note that the up-to-date official repository has been moved to https://gitlab.telecom-paris.fr/RING/SAR-CNN**
+
 # SAR Image Despeckling by Deep Neural Networks: from a pre-trained model to an end-to-end training strategy
 ## Emanuele Dalsasso, Xiangli Yang, Loïc Denis, Florence Tupin, Wen Yang
 ## Abstract
@@ -6,15 +8,18 @@ _Speckle reduction is a longstanding topic in synthetic aperture radar (SAR) ima
 ![summary_SAR-CNN](./img/proposedCNN.png)
 
 ## Resources
+## Resources
 - [Paper (ArXiv)](https://arxiv.org/abs/2006.15559)
-The material is made available under the **GNU General Public License v3.0**: Copyright 2020, Emanuele Dalsasso, Loïc Denis, Florence Tupin, of LTCI research lab - Télécom ParisTech, an Institut Mines Télécom school.
-All rights reserved.
+- [Remot Sensing publication](https://www.mdpi.com/2072-4292/12/16/2636)
 
 To cite the article:
+```
+Dalsasso, E.; Yang, X.; Denis, L.; Tupin, F.; Yang, W. 
+SAR Image Despeckling by Deep Neural Networks: from a Pre-Trained Model to an End-to-End Training Strategy. 
+Remote Sens. 2020, 12, 2636. https://doi.org/10.3390/rs12162636 
+```
 
-    @article{dalsasso2020sar,
-        title={SAR Image Despeckling by Deep Neural Networks: from a pre-trained model to an end-to-end training strategy},
-        author={Emanuele Dalsasso and Xiangli Yang and Loïc Denis and Florence Tupin and Wen Yang},
-        journal={arXiv preprint arXiv:2006.15559},
-        year={2020}
-    }
+## Licence
+
+The material is made available under the **GNU General Public License v3.0**: Copyright 2020, Emanuele Dalsasso, Loïc Denis, Florence Tupin, of LTCI research lab - Télécom ParisTech, an Institut Mines Télécom school.
+All rights reserved.
